@@ -4,3 +4,6 @@
 | **PART** | **VALUE** | **PACKAGE** | **DESCRIPTION** |
 |----------|-----------|-------------|-----------------|
 |          |           |             |                 |
+
+![FR](https://github.com/LaserBattle-fr/Laser-Battle/blob/master/Documentation/Images/france.png)<br>
+** Liste des composants **
