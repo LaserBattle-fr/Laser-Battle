@@ -10,7 +10,7 @@ The version used for this project is the Non-profit Lite version 3.2.0.1
 These 2 files MyHomeFab.eli and MyHomeFab.lib are the Diptrace user libraries
 (components ans patterns) used in the Diptrace Laser Battle projects.
 
-
+<br><br>
 ![FR](https://github.com/LaserBattle-fr/Laser-Battle/blob/master/Documentation/Images/france.png)<br>
 ## Bibliothèques Diptrace ##
 
