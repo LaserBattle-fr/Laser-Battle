@@ -27,5 +27,5 @@ Elle peut être utilisée selon les besoins comme :
  - Mine (Mines)
  - Traps (Pièges)
  - Stasis (Stases)
- - Stun (Paralysant / etourdissement)
+ - Stun (Paralysant / étourdissement)
  - etc.
