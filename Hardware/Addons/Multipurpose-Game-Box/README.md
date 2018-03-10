@@ -1,5 +1,6 @@
 ## Multipurpose Game Box ##
 ----------
+
 ![GB](https://github.com/LaserBattle-fr/Laser-Battle/blob/master/Documentation/Images/united-kingdom.png)<br>
 The Multipurpose Game Box (aka MGB) can be programmed to perform multiples functions availaible in its firmware.  
 It can be used as needed as :  
