@@ -6,8 +6,10 @@ The version used for this project is the Non-profit Lite version 3.2.0.1 (limite
 
 *.dch is the extension for Diptrace schematic files
 *.dip is the extension for Diptrace pcb layout (boards)
-
+<br><br>
+![FR](https://github.com/LaserBattle-fr/Laser-Battle/blob/master/Documentation/Images/france.png)<br>
 ### Fichiers Diptrace ###
+-------------------------
 Diptrace est un logiciel de conception schématique et cirtcuit électronique (pcb) disponible ici : https://diptrace.com/fr/
 La version utilisée pour ce projet est la version Lite à but non lucratif 3.2.0.1 (limitée à 500 broches).
 
