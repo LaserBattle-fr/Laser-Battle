@@ -6,7 +6,7 @@ Game addons like :
  - Domination tube
  - etc.
 
-![FR]()
+![FR](https://github.com/LaserBattle-fr/Laser-Battle/blob/master/Documentation/Images/france.png)
 Compléments de jeu comme :
  - Multipurpose Game Box (Boite multifonctions)
  - Domination tube (Tube de domination)
