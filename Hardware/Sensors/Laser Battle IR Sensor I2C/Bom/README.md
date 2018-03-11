@@ -1,7 +1,9 @@
 ![GB](https://github.com/LaserBattle-fr/Laser-Battle/blob/master/Documentation/Images/united-kingdom.png)<br>
 **BOM (Bill Of Materials)**
+![FR](https://github.com/LaserBattle-fr/Laser-Battle/blob/master/Documentation/Images/france.png)<br>
+**Liste des composants**
 
-| **PARTS**          | **VALUE**               | **PACKAGE**                          | **DESCRIPTION**              |
+| **PARTS**          | **VALUE / VALEUR**      | **PACKAGE**                          | **DESCRIPTION**              |
 |--------------------|-------------------------|--------------------------------------|------------------------------|
 | **U1, U2, U3**     | **TSOP4856**            |                                      | **VISHAY**                   |
 | **U4**             | **MCU-ATMEGA328P-AU**   | **TQFP32**                           | **ATMEL/MICROCHIP**          |
@@ -24,5 +26,4 @@
 | **VIBMOTOR**       | **1.5V-5V**             | **6MMx15MM (4.5\*5.8 MM EXCENTRIC)** | **ALIEXPRESS**               |
 
 
-![FR](https://github.com/LaserBattle-fr/Laser-Battle/blob/master/Documentation/Images/france.png)<br>
-**Liste des composants**
+
