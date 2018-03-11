@@ -22,7 +22,6 @@
 | **R4**             | **100R**                | **0603**                             |                              |
 | **R10**            | **10M**                 | **0603**                             |                              |
 | **VIBMOTOR**       | **1.5V-5V**             | **6MMx15MM (4.5\*5.8 MM EXCENTRIC)** | **ALIEXPRESS**               |
-|--------------------|-------------------------|--------------------------------------|------------------------------|
 
 
 ![FR](https://github.com/LaserBattle-fr/Laser-Battle/blob/master/Documentation/Images/france.png)<br>
