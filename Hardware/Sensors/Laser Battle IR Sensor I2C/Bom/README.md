@@ -1,5 +1,5 @@
 ![GB](https://github.com/LaserBattle-fr/Laser-Battle/blob/master/Documentation/Images/united-kingdom.png)<br>
-**BOM (Bill Of Materials)**
+**BOM (Bill Of Materials)**<br>
 ![FR](https://github.com/LaserBattle-fr/Laser-Battle/blob/master/Documentation/Images/france.png)<br>
 **Liste des composants**
 
