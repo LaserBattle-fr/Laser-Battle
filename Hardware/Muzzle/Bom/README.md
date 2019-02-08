@@ -5,7 +5,7 @@
 
 | **PARTS**          | **VALUE / VALEUR**      | **PACKAGE**                          | **DESCRIPTION**              |
 |--------------------|-------------------------|--------------------------------------|------------------------------|
-| **U1, U2, U3**     | **TSOP4856**            |                                      | **VISHAY**                   |
+| **C1, C2, C3, C4** | **100nF**               | **CAP 0603**                         | **KEMET**                    |
 | **U4**             | **MCU-ATMEGA328P-AU**   | **TQFP32**                           | **ATMEL/MICROCHIP**          |
 | **U6**             | **TLC59711PWP**         | **HTSSOP-20 PowerPAD™**              | **TEXAS INSTRUMENTS**        |
 | **Y1**             | **CSTCE16M0V53-R0**     | **R0**                               | **MURATA**                   |
